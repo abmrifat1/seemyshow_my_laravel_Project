@@ -114,7 +114,6 @@
                        <h3>Email : {{$customer->email}}</h3>
                        <h3>Phone Number : {{$customer->phone_number}}</h3>
                        <h3>Address : {{$customer->address}}</h3>
-
                 </div>
             </div>
 
