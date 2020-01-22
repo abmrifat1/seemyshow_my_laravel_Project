@@ -25,7 +25,7 @@
         <h2 class="page-heading heading--outcontainer">Contact</h2>
         <div class="contact">
             <p class="contact__title">You have any questions or need help, <br><span class="contact__describe">don’t be shy and contact us</span></p>
-            <span class="contact__mail">Rifatabm1@gmaul.com</span>
+            <span class="contact__mail">rifatabm1@gmail.com</span>
             <span class="contact__tel">01772515721</span>
         </div>
     </section>
